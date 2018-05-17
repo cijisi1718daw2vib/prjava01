@@ -1,12 +1,8 @@
-/*
-* To change this template, choose Tools | Templates
-* and open the template in the editor.
- */
 package prjava01;
 
 /**
  *
- * @author cijisi1718daw2vib (a on XYZ és el teu nom d'usuari Github)
+ * @author cijisi1718daw2vib
  */
 import java.io.*;
 
